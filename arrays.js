@@ -41,3 +41,5 @@ function removeElementFromEndOfArray(array) {
   slicearray2 = array.slice(0, array.length - 1)
   return slicearray2
 }
+
+console.log('leg')
